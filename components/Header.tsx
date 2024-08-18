@@ -1,6 +1,6 @@
 import { SignedIn, UserButton } from "@clerk/nextjs"
 import Link from "next/link"
-import {Button} from "./ui/Button"
+import {Button} from "@/components/ui/button"
 import { FilePlus2 } from "lucide-react"
 
 const Header = () => {
